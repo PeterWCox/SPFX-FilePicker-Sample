@@ -8,6 +8,7 @@
 ### 2 Notes
 
 - At time of writing, it is recommended to use V2.9.0 of the PNP SPFX controls until 3.11 lands - the FilePicker currently crashes the browser in V3 when trying to select a link
+- I recommend using the SharePoint Image Helper API as well to improve performance but its 1AM and I need to go to bed...
 
 ### 3 Running the sample
 
@@ -16,3 +17,5 @@
 - npm run serve (or gulp serve)
 
 Make sure to specify the Document Library you want to save locally uploaded images to!
+
+![image](https://user-images.githubusercontent.com/51972024/201804139-ec02f6a4-fb63-44cf-89d1-5957f4cbca23.png)
