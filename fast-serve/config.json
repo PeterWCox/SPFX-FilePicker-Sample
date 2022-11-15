@@ -2,5 +2,12 @@
   "$schema": "https://raw.githubusercontent.com/s-KaiNet/spfx-fast-serve/master/schema/config.latest.schema.json",
   "cli": {
     "isLibraryComponent": false
+  },
+  "serve": {
+    "openUrl": "https://cfwizdemo.sharepoint.com/sites/LightspeedDemo?debug=true&noredir=true&debugManifestsFile=https%3A%2F%2Flocalhost%3A4321%2Ftemp%2Fmanifests.js",
+    "eslint": false,
+    "reactProfiling": false,
+    "fullScreenErrors": false,
+    "open": false
   }
 }
